@@ -4,7 +4,7 @@
 The aim of this project is to create a deep learning model to predict heart disease on patient. The model is trained with [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## 2. IDE and Framework
-The project is built with Spyder 5.3.1 as the main IDE. The main frameworks used in this project are TensorFlow, Numpy, Pandas and Scikit-learn.
+The project is built with Collaboratory. The main frameworks used in this project are TensorFlow, Numpy, Pandas and Scikit-learn.
 
 ## 3. Methodology
 
